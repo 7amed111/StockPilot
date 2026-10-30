@@ -374,4 +374,4 @@ Open the URL printed in the terminal, register a new account (it will be a regul
 
 ## Author
 
-**Your name** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Your name** · [LinkedIn](https://www.linkedin.com/in/mohamed-hamed-111499365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) · [GitHub](https://github.com/7amed111)
