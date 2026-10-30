@@ -31,15 +31,15 @@ Built with **ASP.NET Core MVC**, **Entity Framework Core** and **SQL Server**.
 
 | Home | Dashboard |
 |---|---|
-| ![Home](docs/screenshots/home.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+| ![Home](docs/screenshots/Home.png) | ![Dashboard](docs/screenshots/Dashboard.png) |
 
 | Products | Stock movements |
 |---|---|
-| ![Products](docs/screenshots/products.png) | ![Stock movements](docs/screenshots/stock.png) |
+| ![Products](docs/screenshots/product.png) | ![Stock movements](docs/screenshots/stockmovement.png) |
 
 | AI assistant | Team and tasks |
 |---|---|
-| ![AI assistant](docs/screenshots/chat.png) | ![Team](docs/screenshots/team.png) |
+| ![AI assistant](docs/screenshots/AiAssestant.png) | ![Team](docs/screenshots/Team.png) |
 
 ---
 
