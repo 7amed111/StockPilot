@@ -27,15 +27,13 @@ Built with **ASP.NET Core MVC**, **Entity Framework Core** and **SQL Server**.
 
 ## Screenshots
 
-> Add your own screenshots to `docs/screenshots/` and keep the file names below (or update the links).
-
 | Home | Dashboard |
 |---|---|
 | ![Home](docs/screenshots/Home.png) | ![Dashboard](docs/screenshots/Dashboard.png) |
 
 | Products | Stock movements |
 |---|---|
-| ![Products](docs/screenshots/product.png) | ![Stock movements](docs/screenshots/stockmovement.png) |
+| ![Products](docs/screenshots/Products.png) | ![Stock movements](docs/screenshots/stockmovement.png) |
 
 | AI assistant | Team and tasks |
 |---|---|
